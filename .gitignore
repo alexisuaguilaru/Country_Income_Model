@@ -1,1 +1,10 @@
 *__pycache__
+
+*.aux
+*.bcf
+*fdb_latexmk
+*fls
+*log
+*out
+*xml
+*gz
